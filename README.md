@@ -2,7 +2,7 @@
 
 Sou Engenheiro de Telecomunicações formado pela "Estácio" em 2016. Atualmente, sou aluno de Desenvolvimento Web Full Stack na Driven Education.
 
-- 🎯 Atualmente estou aprendendo Node.js.
+- 🎯 Atualmente estou aprendendo Nest.js.
 
 <div>
   <a href="https://github.com/GiovanneAndrade">

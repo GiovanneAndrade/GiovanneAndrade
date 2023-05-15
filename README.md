@@ -1,6 +1,6 @@
 ## Olá, Mundo! Eu Sou Giovanne Andrade ✌
 
-Sou Engenheiro de Telecomunicações formado pela "Estácio" em 2016. Atualmente, sou aluno de Desenvolvimento Web Full Stack na Driven Education.
+Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também sou formado em desenvolvimento web Full Stack pela Driven Education. Já construí mais de 30 projetos utilizando tecnologias como JavaScript, Node.js e React, entre outras.
 
 - 🎯 Atualmente estou aprendendo Nest.js.
 

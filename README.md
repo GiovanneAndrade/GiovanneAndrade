@@ -41,13 +41,18 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="VSCode" height="24px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Heroku" height="24px" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  
+  <img alt="Railway" height="24px" src="https://img.shields.io/badge/%20Railway-brightgreen?style=flat-square&logo=Railway&logoColor=withe&color=blue" />
   <img alt="Vercel" height="24px" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+   <img alt="Render" height="24px" src="https://img.shields.io/badge/material%20UI-brightgreen?style=flat-square&logo=MUI&logoColor=withe&color=white" />
 </div>
 
             
-          
+         
+
+ 
+
+ 
 
 
  

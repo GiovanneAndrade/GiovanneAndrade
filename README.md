@@ -42,6 +42,8 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
  <img alt="Mongoose" height="24px" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
  <img alt="SQL" height="24px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+  <img alt="Swagger" height="24px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img alt="Redoc" height="24px" src="https://img.shields.io/badge/Redoc-2F2F2F?style=for-the-badge&logo=redoc&logoColor=red" />
 
 </div>
 
@@ -95,7 +97,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
  
 </div>
 
-  ##
+  ## Contato
   
   <div>
   <a href ="mailto:giovanne.asilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

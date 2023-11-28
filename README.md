@@ -48,7 +48,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
 
 </div>
 
-## Teste
+## Testes
 <div>
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="SuperTest" height="24px" src="https://img.shields.io/badge/SuperTest-4876FF?style=for-the-badge&logo=SuperTest&logoColor=white" />
@@ -70,6 +70,8 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
    <img alt="Yarn" height="24px" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   <img alt="pnpm" height="24px" src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
   <img alt="GIT" height="24px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="NVM" height="24px" src="https://img.shields.io/badge/nvm-E44C30?style=for-the-badge&logo=nvm&logoColor=white" />
+
 </div>
 
 ## Ferramentas de Design e Metodologias Ágeis

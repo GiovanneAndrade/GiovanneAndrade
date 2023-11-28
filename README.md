@@ -14,7 +14,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   
 # 💻 Tecnologias
 
-## Frontend Technologies
+## Frontend Tecnologias
 <div>
   <img alt="HTML5" height="24px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,7 +28,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="Axios" height="24px" src="https://img.shields.io/badge/Axios-0095D5?style=for-the-badge&logo=axios&logoColor=white" />
 </div>
 
-## Backend Technologies
+## Backend Tecnologias
 <div>
   <img alt="Node.js" height="24px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
    <img alt="NestJS" height="24px" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -45,7 +45,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
 
 </div>
 
-## Testing
+## Teste
 <div>
   <img alt="Jest" height="24px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img alt="SuperTest" height="24px" src="https://img.shields.io/badge/SuperTest-4876FF?style=for-the-badge&logo=SuperTest&logoColor=white" />
@@ -61,7 +61,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="Render" height="24px" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
 
-## Package Managers and Version Control
+## Gerenciadores de pacotes e controle de versão
 <div>
   <img alt="NPM" height="24px" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
    <img alt="Yarn" height="24px" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
@@ -69,14 +69,14 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="GIT" height="24px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## Design and Collaboration Tools
+## Ferramentas de Design e Metodologias Ágeis
 <div>
   <img alt="Figma" height="24px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="Trello" height="24px" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img alt="Notion" height="24px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
-## IDE and Other Tools
+## IDE e outras ferramentas
 <div>
   <img alt="VSCode" height="24px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Linux" height="24px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />

@@ -14,6 +14,7 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   
 # 💻 Tecnologias
 
+<!-- 📌 *Obs: Alguns ícones possuem links de exemplo associados.* -->
 ## Frontend Tecnologias
 <div>
   <img alt="HTML5" height="24px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

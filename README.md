@@ -41,10 +41,11 @@ Sou um Engenheiro de Telecomunicações formado pela Estácio em 2016 e também 
   <img alt="Redis" height="24px" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="TypeORM" height="24px" src="https://img.shields.io/badge/TypeORM-376D9B?style=for-the-badge&logo=typeorm&logoColor=white" /> 
   <img alt="Prisma ORM" height="24px" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
- <img alt="Mongoose" height="24px" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
- <img alt="SQL" height="24px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-  <img alt="Swagger" height="24px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img alt="Redoc" height="24px" src="https://img.shields.io/badge/Redoc-2F2F2F?style=for-the-badge&logo=redoc&logoColor=red" />
+   <img alt="Mongoose" height="24px" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+   <img alt="SQL" height="24px" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+   <img alt="Swagger" height="24px" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+   <img alt="Redoc" height="24px" src="https://img.shields.io/badge/Redoc-2F2F2F?style=for-the-badge&logo=redoc&logoColor=red" />
+<img alt="Nodemon" height="24px" src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" />
 
 </div>
 
